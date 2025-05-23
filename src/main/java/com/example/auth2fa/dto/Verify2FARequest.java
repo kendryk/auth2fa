@@ -16,4 +16,5 @@ public class Verify2FARequest {
 
     public String getCode2fa() { return code2fa; }
     public void setCode2fa(String code2fa) { this.code2fa = code2fa; }
+
 }
